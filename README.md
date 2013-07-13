@@ -26,7 +26,8 @@ in our phones and our social media accounts.
 
 **mobile-rm**
 
-Our mobile phones are the other main sources for our relationship data. 
+Our mobile phones are the other main sources for our relationship data. If NSA is going to use that metadata you might
+at well use it, too!
 
 **social-rm**
 
@@ -37,7 +38,8 @@ and professional associations. EZ RM helps you understand when and where the two
 
 EZ RM for offices that use group teleconference and desk phone lines.
 
-***EZ RM**
+***EZ RM***
+
 Put it all together and master your relationships like never before.
 
 Never again should there be a CRM that requires us to put in data about our relationships.
