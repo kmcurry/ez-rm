@@ -42,4 +42,4 @@ EZ RM for offices that use group teleconference and desk phone lines.
 
 Put it all together and master your relationships like never before.
 
-Never again should there be a CRM that requires us to put in data about our relationships.
+Never again should there be a CRM that requires us to put in data about our relationships in order to manage them
