@@ -5,7 +5,7 @@ database just so you can "manage" them!
 
 EZ RM is customer relationship management that just works using the relationships you already maintain.
 
-Use EZ RM, find out what you want to know, share with others and never feed the CRM beast again.
+Use EZ RM to find out what you want to know, share with others and never feed the CRM beast again.
 
 **mail-rm**
 
