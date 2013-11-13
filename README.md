@@ -67,4 +67,4 @@ EZ-RM uses natural language processing to categorize contacts by topic.
 What else does EZ-RM Do?
 ------------------------
 We want EZ-RM to stay EZ so we'll avoid getting carried away with imagined features. One key capability of EZ-RM is the
-Business Templates feature. Business Templates are customizable add-ons for common business work flows. EZ-RM does the bearish work of creating a relationships database using data you already have. Business Templates are a way to put contacts from your database into typical work flows.
+Business Templates feature. Business Templates are customizable add-ons for common business work flows. EZ-RM does the bearish work of creating a relationships database using data you already have. Use Business Templates to put contacts into typical work flows like: fundraising campaign, leadership recruiting drive, new business capture and more.
