@@ -1,7 +1,7 @@
 ez-rm
 =======
 No one likes using CRMs. Stop feeding the beast! You shouldn't have to type, copy, paste and click all of your relationships into yet another
-database just so you can "manage" them!
+database just so you can "manage" them! You deserve insight and you shouldn't have to work so hard to get it.
 
 EZ RM is customer relationship management that just works using the relationships you already maintain.
 
@@ -42,4 +42,29 @@ EZ RM for offices that use group teleconference and desk phone lines.
 
 Put it all together and master your relationships like never before.
 
-Never again should there be a CRM that requires us to put in data about our relationships in order to manage them
+Never again should there be a CRM that requires us to put in data about our relationships in order to manage them.
+
+Who uses EZ-RM?
+===============
+EZ-RM is used by people and organizations who feel relationship tracking is way too important and way too hard. 
+
+Why do people use EZ-RM?
+=============================
+EZ-RM is ideal for understanding the people and relationships linked to sales funnels, customer service , membership engagement, fund raising
+
+How does EZ-RM Work?
+====================
+EZ-RM uses your email database, phone contacts database and social media graph to answer key questions you are always trying to answer:
+* Who else in my org is also communicating with Person X or Organization Y?
+* When was the last time I or someone in my org communicated with Person X or Organization Y?
+* What was the last thing Person X and I communicated?
+* Who in my org communicates most with Person X or Organization Y?
+* What organizations is my organization communicating with? Has my organization communicated with?
+* And much more...
+
+EZ-RM uses natural language processing to categorize contacts by topic.
+
+What else does EZ-RM Do?
+========================
+We want EZ-RM to stay EZ so we'll avoid getting carried away with imagined features. One key capability of EZ-RM is the
+Business Templates feature. Business Templates are customizable add-ons for common business work flows. EZ-RM does the bearish work of creating a relationships database using data you already have. Business Templates are a way to put contacts from your database into work flows.
