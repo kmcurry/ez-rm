@@ -13,8 +13,6 @@ never feed the CRM beast again.
 Most of our relationships are in our email. We just need good software that knows how to make it work for us.
 mail-rm does it. Mail RM uses your inbox as the relationship management database.
 
-By analyzing your email EZ RM  will tell
-
 Connect EZ RM to your appointment calendar and EZ RM will brief you about the last time you engaged with the other
 invitees
 
