@@ -1,5 +1,7 @@
-EZ-RM - Turn your contacts into relationships
+EZ-RM
 =======
+Turn your contacts into relationships
+-------------------------------------
 EZ-RM is customer relationship management (CRM) made easy. No one likes using CRM tools on the market but they are doing it anyway. We know this because people are collectively spending *billions* on CRM. Stop feeding the beast! You shouldn't have to type, copy, paste and click all of your relationships into yet another
 database just so you can "manage" them! You shouldn't have to hire an expensive consultant to customize your expensive CRM before you can make the investment work for you. You deserve insight and you shouldn't have to work so hard to get it.
 
