@@ -1,7 +1,7 @@
 ez-rm
 =======
-No one likes using CRMs. Stop feeding the beast! You shouldn't have to type, copy, paste and click all of your relationships into yet another
-database just so you can "manage" them! You deserve insight and you shouldn't have to work so hard to get it.
+EZ-RM is customer relationship management (CRM) made easy. No one likes using CRM tools on the market but they are doing it anyway. We know this because people are collectively spending *billions* on CRM. Stop feeding the beast! You shouldn't have to type, copy, paste and click all of your relationships into yet another
+database just so you can "manage" them! You shouldn't have to hire an expensive consultant to customize your expensive CRM before you can make the investment work for you. You deserve insight and you shouldn't have to work so hard to get it.
 
 EZ RM is customer relationship management that just works using the relationships you already maintain.
 
@@ -42,15 +42,15 @@ EZ RM for offices that use group teleconference and desk phone lines.
 
 Put it all together and master your relationships like never before.
 
-Never again should there be a CRM that requires us to put in data about our relationships in order to manage them.
+Never again should we settle for CRM that requires us to labor so hard to leverage insight.
 
 Who uses EZ-RM?
 ---------------
-EZ-RM is used by people and organizations who feel relationship tracking is way too important and way too hard. 
+EZ-RM is used by people and organizations who feel relationship tracking is way too important and way too hard. EZ-RM is used by fundraisers, recruiters, business capture managers, brokers and sellers.
 
 Why do people use EZ-RM?
 ------------------------
-EZ-RM is ideal for understanding the people and relationships linked to sales funnels, customer service , membership engagement, fund raising
+EZ-RM is ideal for understanding the people and relationships engaged with your business. When relationships are attached to work flows using Workflow Templates EZ-RM tracks sales funnels, customer service, membership engagement, fund raising, recruiting and more. EZ-RM is like web site analytics for your inbox and mobile phone traffic.
 
 How does EZ-RM Work?
 --------------------
@@ -62,9 +62,17 @@ EZ-RM uses your email database, phone contacts database and social media graph t
 * What organizations is my organization communicating with? Has my organization communicated with?
 * And much more...
 
-EZ-RM uses natural language processing to categorize contacts by topic.
+When your contacts are attached to Work Flows EZ-RM answers questions like:
+* Is this contact at the start, in-process or closing out a work flow?
+* When did this contact start this work flow?
+* When is this contact expected to complete this work flow?
+* At what step is this contact in this flow?
+* What is the next step I expect this contact to reach in the flow? When?
+
+EZ-RM uses natural language processing to extract data necessary for its algorithms, categorize contacts by topics and learn from your contact behavior.
 
 What else does EZ-RM Do?
 ------------------------
 We want EZ-RM to stay EZ so we'll avoid getting carried away with imagined features. One key capability of EZ-RM is the
-Business Templates feature. Business Templates are customizable add-ons for common business work flows. EZ-RM does the bearish work of creating a relationships database using data you already have. Use Business Templates to put contacts into typical work flows like: fundraising campaign, leadership recruiting drive, new business capture and more.
+Workflow Templates feature. Workflow Templates are customizable add-ons for common business work flows. EZ-RM does the bearish work of creating a relationships database using data you already have. Use Workflow Templates to put contacts into typical work flows like: fundraising campaign, leadership recruiting drive, new business capture and more.
+
